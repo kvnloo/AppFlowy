@@ -50,7 +50,6 @@ List<CommandShortcutEvent> commandShortcutEvents = [
         cutCommand,
         pasteCommand,
         pasteTextWithoutFormattingCommand,
-        toggleTodoListCommand,
         undoCommand,
         redoCommand,
         exitEditingCommand,
